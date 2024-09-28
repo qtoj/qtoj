@@ -6,5 +6,7 @@
 - CODE SHARING.!
 
 ***NAME A PROJECT? HOW?***
+
 `<COMPETITION_NAME>.<SCHOOL_YEAR>.<PROJECT_NAME>`
+
 Highly rcm, that `<PROJECT_NAME>` should be an English name and add the **DESCRIPTION** of that REPO.
